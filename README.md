@@ -77,12 +77,6 @@
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sisir-Pradhan07&theme=tokyonight"/>
-
-</p>
-
 
 # 🌐 Connect With Me
 
