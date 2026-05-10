@@ -60,7 +60,6 @@
 📌 Sports data analysis project using:
 - Python
 - Power BI / Tableau
-- Excel
 
 📈 Insights:
 - Top century scorers
