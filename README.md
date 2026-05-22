@@ -55,6 +55,20 @@
 🔗 Repository:
 [Oil Price Prediction Project](https://github.com/Sisir-Pradhan07/oil-price-prediction-india)
 
+## 🔹 Inflation Rate Prediction of India
+📌 Machine Learning project using:
+- Linear Regression
+- Ridge Regression
+- KNN Regressor
+- Random Forest Regressor
+
+📊 Compared models using:
+- R² Score
+- RMSE
+- MAE
+
+🔗 Repository:
+[Inflation Rate Prediction of India Project](https://github.com/Sisir-Pradhan07/inflation-rate-prediction-india)
 
 ## 🔹 IPL Centuries Analysis
 📌 Sports data analysis project using:
