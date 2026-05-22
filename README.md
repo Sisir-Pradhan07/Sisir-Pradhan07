@@ -72,15 +72,18 @@
 
 ## 🔹 IPL Centuries Analysis
 📌 Sports data analysis project using:
+- Power BI
 - Python
-- Power BI / Tableau
+- Data Visualization
 
 📈 Insights:
 - Top century scorers
-- Team-wise performance
-- Strike rate analysis
-- Season trends
+- Team-wise performance analysis
+- Strike rate comparison
+- Season trends and match results
 
+🔗 Repository:
+[IPL Century Dashboard Project](https://github.com/Sisir-Pradhan07/ipl-century-dashboard)
 
 # 📈 GitHub Stats
 
