@@ -2,17 +2,18 @@
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Learner;Python+Developer;Data+Analytics+Enthusiast;Power+BI+%7C+Tableau+Learner&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Learner;Python+Developer;Data+Analytics+Enthusiast;Power+BI+Learner&center=true&width=500&height=45">
 </p>
 
 
 # 🚀 About Me
 
 - 🎓 B.Tech Student  
-- 📊 Interested in Data Science & Machine Learning  
+- 📊 Interested in Data Science & Machine Learning
+- 📈 Power BI Learner
 - 🧠 Learning ML algorithms & data visualization  
 - 🔍 Passionate about solving real-world problems using data  
-- ⚡ Currently working on ML & analytics projects  
+- ⚡ Currently working on ML & analytics projects and Power BI
 
 
 # 🛠️ Tech Stack
