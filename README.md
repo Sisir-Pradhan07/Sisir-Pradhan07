@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Sisir Pradhan</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Data Analyst</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Power BI | Data Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Learner;Python+Developer;Data+Analytics+Enthusiast;Power+BI+Learner&center=true&width=500&height=45">
